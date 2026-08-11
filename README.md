@@ -1,38 +1,15 @@
-````markdown
+👋 Hi, I'm Kavita Chauhan
 <div align="center">
+💻 Full Stack Developer · MERN · GenAI
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=800&height=45&lines=Hi+%F0%9F%91%8B+I'm+Kavita+Chauhan;Full+Stack+Web+Developer+%F0%9F%92%BB;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Web+Applications+%F0%9F%9A%80;Learning+DSA+%7C+System+Design+%7C+AI;Always+Learning+%26+Building+%F0%9F%98%8A" alt="Typing Animation"/> <br> <img src="https://komarev.com/ghpvc/?username=kavita-codes&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/> </div>
+👩‍💻 About Me
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&height=35&lines=Learning+by+Building+%F0%9F%9A%80;Understanding+the+Why+behind+the+Code+%F0%9F%A7%A0;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deployment;Turning+Ideas+into+Real+Applications+%F0%9F%92%A1" alt="About Animation"/> </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=220&section=header&text=KAVITA%20CHAUHAN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=aaaaaa"/>
+I'm a B.Tech Computer Science student focused on Full Stack Web Development.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+%26+Responsive+Web+Applications;Backend+APIs+%7C+Authentication+%7C+Databases;Learning+DSA+%7C+System+Design+%7C+AI;Turning+Ideas+Into+Real+Applications+%F0%9F%9A%80" alt="Typing Animation"/>
+I enjoy building complete web applications, from creating responsive user interfaces to developing backend APIs, authentication, database systems, and deploying applications.
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=kavita-codes&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-I'm a **B.Tech Computer Science student** focused on **Full Stack Web Development**.
-
-I enjoy building complete web applications and working across the entire development flow — from creating responsive user interfaces to developing backend APIs, managing databases, implementing authentication, and deploying applications.
-
-I like understanding **how things work behind the scenes**, not just writing code that works.
-
-```text
-💻 Full Stack Development
-⚛️ React.js
-⚙️ Node.js
-🗄️ MongoDB
-🔐 Authentication
-🤖 AI Applications
-🧠 Data Structures & Algorithms
-🚀 Modern Web Development
-````
-
----
+I like understanding how things work behind the scenes, not just writing code that works.
 
 # 🛠️ Tech Stack
 
