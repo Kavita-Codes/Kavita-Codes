@@ -1,4 +1,4 @@
-👋 Hi, I'm Kavita Chauhan
+<h1 align="center">👋 Hi, I'm Kavita Chauhan</h1>
 <div align="center">
 💻 Full Stack Developer · MERN · GenAI
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=800&height=45&lines=Hi+%F0%9F%91%8B+I'm+Kavita+Chauhan;Full+Stack+Web+Developer+%F0%9F%92%BB;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Web+Applications+%F0%9F%9A%80;Learning+DSA+%7C+System+Design+%7C+AI;Always+Learning+%26+Building+%F0%9F%98%8A" alt="Typing Animation"/> <br> <img 
